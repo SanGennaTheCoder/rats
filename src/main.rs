@@ -1,4 +1,4 @@
-mod cats;
+mod cats; // import the cats rust file, to use the "load_arts()" function
 
 use rand::seq::{IndexedRandom};
 use rand::rng;

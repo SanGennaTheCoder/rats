@@ -1,0 +1,15 @@
+Run the tool by executing the following command in your terminal:
+
+rats
+
+The program will print a random ASCII art block from the art.txt file.
+
+You can customize the ASCII art displayed by editing the art.txt file located in the installation directory.
+
+Each ASCII art block should be separated by a line containing only ---. For example:
+
+[insert ASCII art of a cat here]
+---
+[insert ASCII art of a dog here]
+
+Make sure the separator --- is on its own line.
