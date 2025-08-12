@@ -5,7 +5,7 @@ an easy to customize CLI tool to display random text and ASCII art
 ## Linux
 here are the steps to install it on linux systems:
 1. chmod +x [path/of/binary]
-2. sudo mv [path/of/binary] /usr/local/bin
+2. sudo mv [path/of/binary] /usr/local/bin/rats
 
 Explanation:
 1. makes the binary executable
