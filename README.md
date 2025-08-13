@@ -23,8 +23,9 @@ else there's an error
 another way to install is just to source the binary you installed in the current terminal session
 and run it with the --install flag
 
-1. .[path/of/binary]
-2. rats --install
+1. chmod +x [path/of/binary]
+2. . [path/of/binary]
+3. rats --install
 
 if it prints:
 "successfully installed to [path]" -> the binary was successfully copied to ~/.local/bin and is ready to use.
